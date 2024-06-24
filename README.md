@@ -1,6 +1,21 @@
 # zero-hero-2024-06
 
-There are my notes from today's Git lesion.
+## Git Notes
+
+### Intro to version control
+R studio does have git support built into it if you want to do it that way
+Can write wikis in github -> Have an explore
+
+### Anatomy of a Github repository
+- Readme file →  markdown
+- License -> lots of standard ones to chose from out there
+- contributing.md → people who have contributed to the project
+- Code of conduct
+- Issues -> tasks that need to be undertaken 
+
+- .gitignore tells it to ignore certain files
+    + Temporary files created by certain languages
+    + LFS → large file system, git not designed for this, only use small text files, git is not for storing data, don’t need version control for your raw data
 
 - command p allows you to open files within git kraken
 - commit files in groups that are useful
