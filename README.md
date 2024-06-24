@@ -6,7 +6,7 @@
 R studio does have git support built into it if you want to do it that way
 Can write wikis in github -> Have an explore
 
-## Anatomy of a Github repository
+### Anatomy of a Github repository
 - Readme file →  markdown
 - License -> lots of standard ones to chose from out there
 - contributing.md → people who have contributed to the project
@@ -27,6 +27,7 @@ Can write wikis in github -> Have an explore
 - one hash is level one heading, two is a level two etc
 - dashes WITH A SPACE create a bullet list
 - indentation and a plus creates a "sub-list"
+- [general markdown help] (https://srse-git-github-zero2hero.netlify.app/02-websites-with-github-pages/01-markdown-intro/)
 
 ### Practice Markdown
 I have lots to do today so thre is a To Do list:
