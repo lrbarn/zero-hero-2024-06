@@ -4,6 +4,7 @@ There are my notes from today's Git lesion.
 
 - command p allows you to open files within git kraken
 - commit files in groups that are useful
+    + eg after each chunk of R code eg once tidying up the data, after working on models, this makes it easier to spot where changes are leading to bugs etc
 - using the dropdown at pull can use fetch which shows what changes have been made elsewhere but doesn't actually pull
 
 
