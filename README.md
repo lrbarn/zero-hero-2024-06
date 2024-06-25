@@ -6,7 +6,7 @@
 R studio does have git support built into it if you want to do it that way
 Can write wikis in github -> Have an explore
 
-### Anatomy of a Github repository
+## Anatomy of a Github repository
 - Readme file →  markdown
 - License -> lots of standard ones to chose from out there
 - contributing.md → people who have contributed to the project
